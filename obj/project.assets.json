@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\parth\\Desktop\\Spr 2018 Courses\\ACCTMIS 3610 Fundmtl of Bus IS\\workspace\\Fisher.BookStore\\Fisher.Bookstore.csproj",
+      "projectUniqueName": "C:\\Users\\parth\\Desktop\\Spr 2018 Courses\\ACCTMIS 3610 Fundmtl of Bus IS\\workspace\\Fisher.Bookstore\\Fisher.Bookstore.csproj",
       "projectName": "Fisher.Bookstore",
-      "projectPath": "C:\\Users\\parth\\Desktop\\Spr 2018 Courses\\ACCTMIS 3610 Fundmtl of Bus IS\\workspace\\Fisher.BookStore\\Fisher.Bookstore.csproj",
+      "projectPath": "C:\\Users\\parth\\Desktop\\Spr 2018 Courses\\ACCTMIS 3610 Fundmtl of Bus IS\\workspace\\Fisher.Bookstore\\Fisher.Bookstore.csproj",
       "packagesPath": "C:\\Users\\parth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\parth\\Desktop\\Spr 2018 Courses\\ACCTMIS 3610 Fundmtl of Bus IS\\workspace\\Fisher.BookStore\\obj\\",
+      "outputPath": "C:\\Users\\parth\\Desktop\\Spr 2018 Courses\\ACCTMIS 3610 Fundmtl of Bus IS\\workspace\\Fisher.Bookstore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
